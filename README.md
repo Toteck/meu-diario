@@ -12,7 +12,7 @@ Este é um projeto desenvolvido como atividade prática de HTML e CSS, cujo obje
 
 ## 🧪 Demonstração
 
-💻 [Link para visualização do projeto (Surge, GitHub Pages ou Vercel)](https://meu-diario-three.vercel.app/)
+💻 [Link para visualização do projeto (Vercel)](https://meu-diario-three.vercel.app/)
 
 ## 🛠 Tecnologias utilizadas
 
