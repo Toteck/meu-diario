@@ -12,7 +12,7 @@ Este é um projeto desenvolvido como atividade prática de HTML e CSS, cujo obje
 
 ## 🧪 Demonstração
 
-💻 [Link para visualização do projeto (Surge, GitHub Pages ou Vercel)](https://seudominio.surge.sh)
+💻 [Link para visualização do projeto (Surge, GitHub Pages ou Vercel)](https://meu-diario-three.vercel.app/)
 
 ## 🛠 Tecnologias utilizadas
 
@@ -24,9 +24,13 @@ Este é um projeto desenvolvido como atividade prática de HTML e CSS, cujo obje
 ## 📂 Estrutura de Arquivos
 
 meu-diario/
+
 ├── index.html # Página principal
+
 ├── style.css # Estilos globais com variáveis e temas
+
 ├── script.js # JavaScript para alternância de tema
+
 └── README.md # Este arquivo
 
 
